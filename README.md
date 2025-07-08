@@ -1,2 +1,2 @@
 # simplestdockerfile
-simplestdockerfile
+podman build .
