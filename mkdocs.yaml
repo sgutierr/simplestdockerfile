@@ -1,5 +1,5 @@
-site_name: test-docs-version
-site_description: An informative description
+site_name: test-docs-version-v2
+site_description: An informative description v2
 plugins:
   - techdocs-core
 nav:
