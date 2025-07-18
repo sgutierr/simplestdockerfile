@@ -9,5 +9,5 @@ metadata:
     - main    
 spec:
   type: documentation
-  lifecycle: experimental
+  lifecycle: production
   owner: user-or-team-name
