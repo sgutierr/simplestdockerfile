@@ -6,7 +6,7 @@ metadata:
     # this could also be `url:<url>` if the documentation isn't in the same location
     backstage.io/techdocs-ref: dir:.
   tags:
-    - main    
+    - v2   
 spec:
   type: documentation
   lifecycle: experimental
